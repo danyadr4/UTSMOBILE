@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laptop</string>
+    <string name="laptop_brand">Brand: %1$s</string>
+    <string name="laptop_price">Prices: %1$s</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="grid">Grid</string>
+</resources>
